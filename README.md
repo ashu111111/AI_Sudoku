@@ -3,7 +3,7 @@
 [![forthebadge cc-0](http://ForTheBadge.com/images/badges/cc-0.svg)](http://ForTheBadge.com)
 
 GUI Smart Sudoku Solver that tries to extract a sudoku puzzle from a photo and solve it.
-
+test
 ## Table Of Contents:
 
 [Installation](https://github.com/neeru1207/AI_Sudoku/blob/master/README.md#installation)
